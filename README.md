@@ -28,7 +28,7 @@ Understand how different customer segments perform in terms of sales and profit.
 - ⚖️ Sales-to-Profit Ratio Analysis
 Assess the efficiency of sales turning into profit across categories, sub-categories, and segments.
 
-- 🧰 Tools & Technologies
+🧰 Tools & Technologies
 Language: Python 3.x
 
 Notebook: Jupyter
