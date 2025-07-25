@@ -4,40 +4,40 @@ This project provides a detailed exploratory analysis of a Superstore's eCommerc
 🎯 Objectives
 The main objectives of the analysis are:
 
-📆 Monthly Sales Analysis
+- 📆 Monthly Sales Analysis
 Track sales trends over time to identify peak and low-performing months.
 
-🛍️ Sales by Category
+- 🛍️ Sales by Category
 Determine which product categories drive the most revenue.
 
-🧩 Sales by Sub-Category
+- 🧩 Sales by Sub-Category
 Explore performance within each category by analyzing sub-categories.
 
-💵 Monthly Profit Analysis
+- 💵 Monthly Profit Analysis
 Evaluate how profit fluctuates across months.
 
-🗂️ Profit by Category
+- 🗂️ Profit by Category
 Identify which categories contribute most to profitability.
 
-🔍 Profit by Sub-Category
+- 🔍 Profit by Sub-Category
 Analyze which sub-categories are the most and least profitable.
 
-👥 Sales & Profit by Customer Segment
+- 👥 Sales & Profit by Customer Segment
 Understand how different customer segments perform in terms of sales and profit.
 
-⚖️ Sales-to-Profit Ratio Analysis
+- ⚖️ Sales-to-Profit Ratio Analysis
 Assess the efficiency of sales turning into profit across categories, sub-categories, and segments.
 
-🧰 Tools & Technologies
+- 🧰 Tools & Technologies
 Language: Python 3.x
 
 Notebook: Jupyter
 
 Libraries Used:
 
-pandas – data cleaning and manipulation
+- pandas – data cleaning and manipulation
 
-plotly.express – for rich, interactive visualizations
+- plotly.express – for rich, interactive visualizations
 
-datetime – for handling date-related data
+- datetime – for handling date-related data
 
